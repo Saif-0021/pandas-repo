@@ -1,4 +1,4 @@
-git is open source  version controle system
-there are to types of version controle syster
-one is centralized version controle system
-second is distrebuted version controle system
+git is open source  version control system
+there are to types of version control system
+one is centralized version control system
+second is distributed version control system
