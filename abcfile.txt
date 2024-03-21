@@ -3,3 +3,4 @@ there are to types of version control system
 one is centralized version control system
 second is distributed version control system
 with the help of git we can maintain the version of commits
+and snapshors
